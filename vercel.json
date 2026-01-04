@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/2.html/index.html" },
+    { "source": "/2.html", "destination": "/2.html/index.html" },
+    { "source": "/3.html", "destination": "/3.html/index.html" },
+    { "source": "/desafio", "destination": "/2.html/index.html" },
+    { "source": "/front", "destination": "/3.html/index.html" }
+  ]
+}
